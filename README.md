@@ -1,5 +1,8 @@
 # EcoScan: AI-Powered Sustainability Reporting Analysis
 
+![EcoScan Poster](https://github.com/user-attachments/assets/181d24e7-ce00-4dc2-837e-55c54a928f78)
+
+## Overview
 EcoScan is a web application that leverages AI to transform sustainability reporting in the fossil fuel industry. By automating the extraction and analysis of ESG (Environmental, Social, Governance) data, we provide unprecedented transparency and insights.
 
 ![487799181_2090301031382855_7269777198540257568_n](https://github.com/user-attachments/assets/b774c38c-0fd1-4550-88b6-2f6a1c830c97)
@@ -15,3 +18,5 @@ EcoScan is a web application that leverages AI to transform sustainability repor
 
 ## User Flow
  <img width="1120" alt="image" src="https://github.com/user-attachments/assets/fbdcd8ff-2d45-4b47-a13d-5118192e0eba" />
+
+
